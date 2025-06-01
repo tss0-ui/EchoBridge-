@@ -1,0 +1,13 @@
+# Backend
+express
+cors
+dotenv
+axios
+body-parser
+node-fetch
+
+# Python (ML)
+tensorflow==2.15.0
+tensorflowjs==4.16.0
+opencv-python
+numpy
