@@ -1,0 +1,15 @@
+dataset_path: "./dataset"
+model_output: "./models/sign_model"
+image_size: 224
+batch_size: 32
+epochs: 25
+classes:
+  - Hello
+  - Yes
+  - No
+  - ThankYou
+  - Help
+augmentation:
+  rotate: True
+  zoom: True
+  flip: True
